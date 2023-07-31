@@ -1,0 +1,8 @@
+Enter a valid infix expression one token at a time with a space between each token (e.g. 5 4 + 3 2 1 - + *) Each token must be an integer or an operator (+,-,*,) : 1 + 2 * 3
+That expression equals 7
+
+Enter a valid infix expression one token at a time with a space between each token (e.g. 5 4 + 3 2 1 - + *) Each token must be an integer or an operator (+,-,*,) : 1 + ( 2 - 3 )
+That expression equals 0
+
+Enter a valid infix expression one token at a time with a space between each token (e.g. 5 4 + 3 2 1 - + *) Each token must be an integer or an operator (+,-,*,) : ( ( 1 + 2 ) * 3 )
+That expression equals 9
